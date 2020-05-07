@@ -1,26 +1,18 @@
 # Atividades Multidisciplinares 1º Semestre 2020
 Desenvolvendo um Workflow para um Servidor Web, com Apache, MySQL, PHP, SSH, FTP, SAMBA.
 
-
-
-### Resumo:
-
-## 
-
-### Sumário:
+------
 
 
 
-### Introdução:
+1. ### Resumo:
 
+2. ### Sumário:
 
+3. ### Introdução:
 
-### Desenvolvimento:
+4. ### Desenvolvimento:
 
+5. ### Conclusão:
 
-
-### Conclusão:
-
-### 
-
-### Referências:
+6. ### Referências:
