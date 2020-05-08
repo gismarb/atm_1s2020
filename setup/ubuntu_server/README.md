@@ -1,6 +1,4 @@
-# Ubuntu Server 18.04
-
-## Procedimentos de Instalação e Configuração do Sistema Operacional
+### Ubuntu Server 18.04: Procedimentos de Instalação e Configuração do Sistema Operacional
 
 ------
 
