@@ -54,8 +54,4 @@ Promover o **download**, **instalação** e **configuração** do sistema operac
   - **Instale um editor de texto**: `sudo apt install vim nano emacs` *(aqui, escolha um dos editores)*;
   - **Instale alguns pacotes necessários**: `sudo apt install htop curl wget neofetch git exuberant-ctags ncurses-term`;
   - **Configurar interfaces de rede *(placa de rede única)***: existem várias forma de fazer a configuração da rede no Ubuntu Server 18.04, mas a ideal é via **netplan** *(um serviço com fim de gerar configurações para interfaces de rede disponíveis)*. Quando o servidor é instalado pela primeira vez, ele por padrão, **está em modo DHCP**, logo é necessário **cadastrar um IP fixo para o mesmo**, como demais configurações necessárias.
-    - 
 
-  - JKJKJK
-  - JKJKJJ
-  - LKKLK
