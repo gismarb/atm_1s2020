@@ -40,7 +40,7 @@ Neste ponto, não existem diferenças *(exceto em casos específicos que não se
 
 Basicamente, o **processo consiste em criar um máquina virtual** *(VM)* parte da construção de um computador *(porém virtual)*, onde iremos definir processador, disco, memória, etc, tudo que é necessário em um computador *(conforme demonstrado abaixo)*. 
 
-![1](../../../../../../../home/gismar/ext_DATA/Workspace/atm_1s2020/images/1_criando_vm.gif)
+![1](../../../images/1_criando_vm.gif)
 
 
 
