@@ -16,7 +16,7 @@ O pacote que utilizaremos será o ***openssh-server***.
 
 #### **Download**: 
 
-O download do arquivos de insalação do serviço, podem ser feitos de várias formas, inclusive pelo site oficia da do [OpenSSH](https://www.openssh.com/). Nós aqui, indicamos que o mesmo seja ***baixado do repositório oficial do Ubuntu Server, via apt***.
+O download do arquivos de insalação do serviço, podem ser feitos de várias formas, inclusive pelo site oficial do [OpenSSH](https://www.openssh.com/). Nós aqui, indicamos que o mesmo seja ***baixado do repositório oficial do Ubuntu Server, via apt***.
 
 #### Instalação: 
 
