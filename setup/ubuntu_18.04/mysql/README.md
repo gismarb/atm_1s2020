@@ -1,4 +1,4 @@
-# MySQL Server : Procedimentos de Instalação e Configuração do Sistema Gerenciador de Banco de Dados (SGBD)
+# MySQL Server : Procedimentos de Instalação e Configuração do Sistema Gerenciador de Banco de Dados (SGBD) Web
 
 
 
