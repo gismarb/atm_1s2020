@@ -36,6 +36,12 @@ Para quem usa ***Windows***, a referência é  usar o [putty](https://www.putty.
 
 Existem "n" opções de configuração em relação ao uso do serviço de SSH no Linux, mas aqui vamos apenas nos reservar em utilizar o padrão já dísponível logo após a instalação. O Ubuntu Server 18.04.4, por padrão, já vem com acesso SSH desativado, então, a única alteração a realizar, é habilitar a comunicação da  porta 22, no firewall, o que será demonstrado na seção deste referido serviço. 
 
+É importante realçar que SSH, conforme fala ***Wikipédia:***
+
+> *"Secure Shell (SSH) é um protocolo de rede criptográfico para operação de serviços de rede de forma segura sobre uma rede insegura"*.
+
+Desta forma, para que não haja confusão, ***SSH é o protocolo de acesso remoto***, e ***openssh-server, é o serviço e/ou programa que utiliza o referido protocolo para realizar o que o mesmo propõe*** *(acesso remoto seguro, via linha de comando - CLI)*. 
+
 ## Referências
 
 [OpenSSH](https://www.openssh.com/)
