@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-Promover o **download**, **instalação** e **configuração** do serviço do ambiente de ***PHP*** (stack de desenvolvimento web). ***Aqui, será demonstrada a forma básica de realizar o procedimento e configuração***.
+Promover o **download**, **instalação** e **configuração** do serviço do ambiente de ***PHP*** *(stack de desenvolvimento web)*. ***Aqui, será demonstrada a forma básica de realizar o procedimento e configuração***.
 
 O pacote que utilizaremos será o ***php7.4*** *(e suas dependências, que em nosso caso são obrigatórias)*.
 
