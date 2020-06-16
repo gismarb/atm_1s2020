@@ -62,13 +62,13 @@ Desta forma, devemos separar o desenvolvimento em:
 
   [Ubuntu Server 18.04.4](https://github.com/gismarb/atm_1s2020/blob/master/setup/ubuntu_18.04/ubuntu_server/README.md)
 
-- ***Sistema de Virtualização (Opcional):*** O sistema de virtualização, apesar de não serem obrigatório *(ainda que os principais sistemas web atualmente, esteja rodando sobre cloud, logo em ambiente virtual)*, ***podem ser usados em ambiente de testes*** (como por exemplo com auxílio de ferramentas específicas como [Docker](https://www.docker.com/) e/ou [Vagrant](https://www.vagrantup.com/))
+- ***Sistema de Virtualização (Opcional):*** O sistema de virtualização, apesar de não serem obrigatório *(ainda que os principais sistemas web atualmente, esteja rodando sobre cloud, logo em ambiente virtual)*, ***podem ser usados em ambiente de testes*** *(como por exemplo com auxílio de ferramentas específicas como [Docker](https://www.docker.com/) e/ou [Vagrant](https://www.vagrantup.com/))*.
 
   [VirtualBox 6.1](https://github.com/gismarb/atm_1s2020/blob/master/setup/ubuntu_18.04/virtualbox/README.md)
 
 ### Conclusão
 
-O processo de ***desenvolvimento de um Workflow de um Servidor Web*** é demasiadamente complexo e heterogêneo, tendo em vista que muitas são as nuances que devem ser trabalhadas de forma sinérgica, para que se tenha sucesso ao final do trabalho. Devemos nos atentar, que em um ambiente corporativo, procedimentos automatizados poderão ser utilizados para optimizar os processos de desenvolvimento assim como utilização em produção. Mas, sobretudo, visando a criação de um ambiente, para que seja feito debug e/ou deploy de aplicações e soluções Web, é interessante construir o ambiente, visando todos os aspectos possíveis que serão colocados em produção, com os que já foram listados anteriormente *([Desenvolvimento](#desenvolvimento))*, simulando de fato o que se pode esperar em um grande provedor web. Desta forma, ***percebemos, que independente da plataforma, se é um ambiente de produção ou teste, se é um sistema e/ou aplicação web de pequeno ou grande porte, a linha base de projeto será sempre a mesma***.
+O processo de ***desenvolvimento de um Workflow de um Servidor Web*** é demasiadamente complexo e heterogêneo, tendo em vista que muitas são as nuances que devem ser trabalhadas de forma sinérgica, para que se tenha sucesso ao final do trabalho. Devemos nos atentar, que em um ambiente corporativo, procedimentos automatizados poderão ser utilizados para optimizar os processos de desenvolvimento assim como utilização em produção. Mas, sobretudo, visando a criação de um ambiente, para que seja feito ***debug*** e/ou ***deploy*** de aplicações e soluções Web, é interessante construir o ambiente, visando todos os aspectos possíveis que serão colocados em produção, com os que já foram listados anteriormente *([Desenvolvimento](#desenvolvimento))*, simulando de fato o que se pode esperar em um grande provedor web. Desta forma, ***percebemos, que independente da plataforma, se é um ambiente de produção ou teste, se é um sistema e/ou aplicação web de pequeno ou grande porte, a linha base de projeto será sempre a mesma***.
 
 ### Referências
 
